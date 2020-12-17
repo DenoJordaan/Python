@@ -1,0 +1,3 @@
+in python you can do many things like lists
+
+in python you can create tuples
